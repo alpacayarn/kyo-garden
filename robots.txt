@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alpacayarn.github.io/kyo-garden/sitemap.xml

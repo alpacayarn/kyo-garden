@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classical on Kyo&#39;s Garden</title>
+    <link>https://alpacayarn.github.io/kyo-garden/tags/classical/</link>
+    <description>Recent content in Classical on Kyo&#39;s Garden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>arkisty@gmail.com (Kyo)</managingEditor>
+    <webMaster>arkisty@gmail.com (Kyo)</webMaster>
+    <copyright>All rights reserved.</copyright>
+    <lastBuildDate>Fri, 09 May 2025 22:49:07 +0800</lastBuildDate><atom:link href="https://alpacayarn.github.io/kyo-garden/tags/classical/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kashiwa Daisuke</title>
+      <link>https://alpacayarn.github.io/kyo-garden/music/kashiwa-daisuke/</link>
+      <pubDate>Fri, 09 May 2025 22:49:07 +0800</pubDate>
+      <author>arkisty@gmail.com (Kyo)</author>
+      <guid>https://alpacayarn.github.io/kyo-garden/music/kashiwa-daisuke/</guid>
+      <description>&lt;div class=&#34;video-embed-wrapper&#34;&gt;
+    &lt;lite-youtube videoid=&#34;eRQG5TV7Pm0&#34; playlabel=&#34;eRQG5TV7Pm0&#34; params=&#34;&#34;&gt;&lt;/lite-youtube&gt;
+&lt;/div&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alpacayarn.github.io/kyo-garden/music/kashiwa-daisuke/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hip Hop on Kyo&#39;s Garden</title>
+    <link>https://alpacayarn.github.io/kyo-garden/tags/hip-hop/</link>
+    <description>Recent content in Hip Hop on Kyo&#39;s Garden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>arkisty@gmail.com (Kyo)</managingEditor>
+    <webMaster>arkisty@gmail.com (Kyo)</webMaster>
+    <copyright>All rights reserved.</copyright>
+    <lastBuildDate>Fri, 09 May 2025 22:38:15 +0800</lastBuildDate><atom:link href="https://alpacayarn.github.io/kyo-garden/tags/hip-hop/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Zelda &amp; Chill</title>
+      <link>https://alpacayarn.github.io/kyo-garden/music/zelda-and-chill/</link>
+      <pubDate>Fri, 09 May 2025 22:38:15 +0800</pubDate>
+      <author>arkisty@gmail.com (Kyo)</author>
+      <guid>https://alpacayarn.github.io/kyo-garden/music/zelda-and-chill/</guid>
+      <description>&lt;div class=&#34;video-embed-wrapper&#34;&gt;
+    &lt;lite-youtube videoid=&#34;GdzrrWA8e7A&#34; playlabel=&#34;GdzrrWA8e7A&#34; params=&#34;&#34;&gt;&lt;/lite-youtube&gt;
+&lt;/div&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alpacayarn.github.io/kyo-garden/music/zelda-and-chill/featured.jpeg" />
+    </item>
+    
+    <item>
+      <title>Hazzy</title>
+      <link>https://alpacayarn.github.io/kyo-garden/music/hazzy/</link>
+      <pubDate>Fri, 09 May 2025 16:59:34 +0800</pubDate>
+      <author>arkisty@gmail.com (Kyo)</author>
+      <guid>https://alpacayarn.github.io/kyo-garden/music/hazzy/</guid>
+      <description>&lt;div class=&#34;video-embed-wrapper&#34;&gt;
+    &lt;lite-youtube videoid=&#34;O_tbrxZPgEY&#34; playlabel=&#34;O_tbrxZPgEY&#34; params=&#34;&#34;&gt;&lt;/lite-youtube&gt;
+&lt;/div&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://alpacayarn.github.io/kyo-garden/music/hazzy/featured.jpeg" />
+    </item>
+    
+  </channel>
+</rss>
